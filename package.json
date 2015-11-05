@@ -1,0 +1,19 @@
+{
+  "name": "hkv-prog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23"
+  },
+  "devDependencies": {
+    "eslint": "^1.7.2",
+    "lodash": "^3.10.1"
+  }
+}
