@@ -1,4 +1,3 @@
-import Card from './card';
 import sortByOrder from 'lodash/collection/sortByOrder';
 
 export default class Hand {
